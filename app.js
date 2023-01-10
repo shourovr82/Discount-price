@@ -26,7 +26,7 @@ document.getElementById('apply-btn').addEventListener('click', function () {
     discount.style.color = '#F36B07';
   }
   else {
-    return alert('ekhane goriber khawa nai');
+    return alert('ekhane goriber khawa nai . ami grib tai ami jete parchi na');
   }
 
 
